@@ -1,0 +1,3 @@
+D:/webots/Webots/resources/projects/controllers/mycontroller/cmake-build-debug-webots/CMakeFiles/mycontroller.dir
+D:/webots/Webots/resources/projects/controllers/mycontroller/cmake-build-debug-webots/CMakeFiles/edit_cache.dir
+D:/webots/Webots/resources/projects/controllers/mycontroller/cmake-build-debug-webots/CMakeFiles/rebuild_cache.dir
